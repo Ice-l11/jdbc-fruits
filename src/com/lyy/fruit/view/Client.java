@@ -1,7 +1,6 @@
 package com.lyy.fruit.view;
 
-import com.lyy.fruit.controller.Menu;
-
+import com.lyy.fruit.controller.*;
 /**
  * @ClassName Client
  * @Description 启动视图
