@@ -1,4 +1,4 @@
-package com.lyy.controller;
+package com.lyy.fruit.controller;
 
 import com.lyy.fruit.dao.FruitDao;
 import com.lyy.fruit.dao.impl.FruitDaoImpl;

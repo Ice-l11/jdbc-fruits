@@ -1,6 +1,6 @@
-package com.lyy.view;
+package com.lyy.fruit.view;
 
-import com.lyy.controller.Menu;
+import com.lyy.fruit.controller.Menu;
 
 /**
  * @ClassName Client
